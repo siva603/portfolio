@@ -1,0 +1,64 @@
+{
+    "home":{
+        
+    },
+
+    "about":{
+        "para1":"",
+        "para2":"",
+        "para3":""
+    },
+
+    "education":{
+        "pre-graduation":{
+            "course":"Btech",
+            "college":"",
+            "cgpa":"8.11",
+            "year":"2025"
+        },
+        "intermediate":{
+            "course":"Intermediate",
+            "college":"Govt junior collage",
+            "cgpa":"8.29"
+        },
+        "10th":{
+            "course":"10th class",
+            "college":"ZPH school",
+            "cgpa":"9.33"
+        }
+    },
+
+    "skills":{
+        "frontend":{
+            "one":"html",
+            "two" : "css",
+            "three":"js",
+            "four":"bootstrap",
+            "five":"react.js"
+        },
+        "backend":{
+            "one":"java",
+            "two" : "spring boot",
+            "three":"python",
+            "four":"c language",
+            "five":"sql"
+        }
+    },
+
+    "projects":{
+        "project1":{
+            "pic":" ",
+            "skills":[],
+            "github_link":"",
+            "url":"",
+            "title":"",
+            "description":""
+        }
+    },
+
+    "footer":{
+        "instagram":"",
+        "github":"",
+        "linkedin":""
+    }
+}
