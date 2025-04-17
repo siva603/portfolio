@@ -1,64 +1,98 @@
 {
     "home":{
-        
+        "student":"STUDENT",
+        "typing":["Hi There! I’m Sivaprasad.","Aspiring Full-Stack Java Developer.","Turning Ideas into Powerful Java Applications Passionate Coder.","Writing Code, Building Solutions, Creating Impact."],
+        "para":"I am a 2025 pass out student of Bachelor of Technology in Computer Science Engineering from JNTUA.",
+        "resume":"https://drive.google.com/file/d/1ikVjs0GJ3qSoZnmaRiMp-j2-zsexv2iP/view?usp=drive_link"
     },
 
     "about":{
-        "para1":"",
-        "para2":"",
-        "para3":""
+        "img":"./public/img.jpg",
+        "para":["Hi there! I'm Sivaprasad, an undergraduate student with a passion for web development and technology. I've been immersing myself in the world of coding, crafting intuitive solutions and exploring the endless possibilities it offers.","As a budding web developer, I've ventured into the world of e-commerce by creating websites using HTML, CSS, and JavaScript. Additionally, I've developed projects like a dynamic React.js application designed to facilitate learning and practice in various fields.","I would like to do an internship on web development or fronend or backend(java)."]
     },
-
     "education":{
         "pre-graduation":{
             "course":"Btech",
             "college":"",
-            "cgpa":"8.11",
-            "year":"2025"
+            "score":"8.11",
+            "year":"2021 - 2025"
         },
         "intermediate":{
             "course":"Intermediate",
             "college":"Govt junior collage",
-            "cgpa":"8.29"
+            "score":"8.29"
         },
         "10th":{
             "course":"10th class",
             "college":"ZPH school",
-            "cgpa":"9.33"
+            "score":"9.33"
         }
     },
 
     "skills":{
-        "frontend":{
-            "one":"html",
-            "two" : "css",
-            "three":"js",
-            "four":"bootstrap",
-            "five":"react.js"
-        },
-        "backend":{
-            "one":"java",
-            "two" : "spring boot",
-            "three":"python",
-            "four":"c language",
-            "five":"sql"
-        }
+
+        "frontend":["html","css","javascript","bootstrap","react"],
+
+        "backend":["java","springBoot","python","c","sql"]
     },
 
     "projects":{
         "project1":{
-            "pic":" ",
-            "skills":[],
-            "github_link":"",
-            "url":"",
-            "title":"",
-            "description":""
+            "pic":"./public/q_learning.png",
+            "skills":["html","css","javascript"],
+            "github":"http://github-link",
+            "url":"http://url-link",
+            "title":"Project name",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque blanditiis nemo fugit autem possimus, magnam consequatur sint esse."
+
+        },
+        "project2":{
+            "pic":"./public/q_learning.png",
+            "skills":["html","css","javascript"],
+            "github":"http://github-link",
+            "url":"http://url-link",
+            "title":"Project name",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque blanditiis nemo fugit autem possimus, magnam consequatur sint esse."
+        },
+        "project3":{
+            "pic":"./public/q_learning.png",
+            "skills":["html","css","javascript"],
+            "github":"http://github-link",
+            "url":"http://url-link",
+            "title":"Project name",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque blanditiis nemo fugit autem possimus, magnam consequatur sint esse."
+
+        },
+        "project4":{
+            "pic":"./public/q_learning.png",
+            "skills":["html","css","javascript"],
+            "github":"http://github-link",
+            "url":"http://url-link",
+            "title":"Project name",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque blanditiis nemo fugit autem possimus, magnam consequatur sint esse."
+
         }
+        ,
+        "project5":{
+            "pic":"./public/q_learning.png",
+            "skills":["html","css","javascript"],
+            "github":"http://github-link",
+            "url":"http://url-link",
+            "title":"Project name",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque blanditiis nemo fugit autem possimus, magnam consequatur sint esse."
+
+        }
+
     },
 
+    "contact":{
+        "form":"https://formspree.io/f/xjkyqbkl"
+    },
     "footer":{
-        "instagram":"",
-        "github":"",
-        "linkedin":""
+        "linkedin":"https://www.linkedin.com/in/u-sivaprasad",
+        "instagram":"https://www.instagram.com/monster_spd?igsh=dGpreXd1bm0wZ3o2&utm_source=ig_contact_invite" ,
+        "github":"https://github.com/siva603/",
+        "twitter":"",
+        "whatsapp" : ""
     }
 }
