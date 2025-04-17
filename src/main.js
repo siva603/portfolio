@@ -81,4 +81,24 @@
  }
 
  // Start the animation when page loads
- window.addEventListener('DOMContentLoaded', animateTyping);
+ window.addEventListener('DOMContentLoaded',animateTyping);
+
+ let year = document.getElementById("year");
+        let currentYear = new Date().getFullYear();
+        year.innerText=currentYear;
+
+
+ fetch("./src/data.json")
+   .then(response => response.json())
+   .then(data => {
+    console.log(data)
+     initialize(data); // here you need initialize everthing now
+   });
+ 
+function initialize(data){
+    for(let d in data){
+        if(d == "home"){
+            console.log(data[d])
+        }
+    }
+}
