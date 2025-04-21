@@ -10,6 +10,7 @@
         "img":"./public/img.jpg",
         "para":["Hi there! I'm Sivaprasad, an undergraduate student with a passion for web development and technology. I've been immersing myself in the world of coding, crafting intuitive solutions and exploring the endless possibilities it offers.","As a budding web developer, I've ventured into the world of e-commerce by creating websites using HTML, CSS, and JavaScript. Additionally, I've developed projects like a dynamic React.js application designed to facilitate learning and practice in various fields.","I would like to do an internship on web development or fronend or backend(java)."]
     },
+
     "education":{
         "pre-graduation":{
             "course":"Btech",
@@ -81,6 +82,15 @@
             "title":"Project name",
             "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque blanditiis nemo fugit autem possimus, magnam consequatur sint esse."
 
+        },
+        "project6":{
+            "pic":"./public/q_learning.png",
+            "skills":["html","css","javascript"],
+            "github":"http://github-link",
+            "url":"http://url-link",
+            "title":"Project name",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque blanditiis nemo fugit autem possimus, magnam consequatur sint esse."
+
         }
 
     },
@@ -88,6 +98,7 @@
     "contact":{
         "form":"https://formspree.io/f/xjkyqbkl"
     },
+    
     "footer":{
         "linkedin":"https://www.linkedin.com/in/u-sivaprasad",
         "instagram":"https://www.instagram.com/monster_spd?igsh=dGpreXd1bm0wZ3o2&utm_source=ig_contact_invite" ,

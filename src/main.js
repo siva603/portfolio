@@ -243,7 +243,8 @@ year.innerText=currentYear;
  fetch("./src/data.json")
    .then(response => response.json())
    .then(data => {
-    // console.log(data)
+    console.log("getting json data "); 
+    console.log(data)
      initialize(data); // here you need initialize everthing now
    });
  
